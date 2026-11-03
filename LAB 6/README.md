@@ -5,6 +5,9 @@
 **Repository Link:**  
 https://github.com/Anushka-Kumar/L6_L7_17_electricity_bill
 
+**Commit History link:**
+https://github.com/Anushka-Kumar/L6_L7_17_electricity_bill/commits/main/
+
 The individual repository contains the implementation, test cases and Git commit history for this lab.
 
 ## Files Included
