@@ -1,6 +1,6 @@
 # LAB 6 – Electricity Bill Application
 
-## Individual GitHub Repository
+## Individual(forked) GitHub Repository
 
 **Repository Link:**  
 https://github.com/Anushka-Kumar/L6_L7_17_electricity_bill
