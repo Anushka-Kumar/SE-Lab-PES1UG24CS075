@@ -2,7 +2,7 @@
 
 ## Individual (Forked) GitHub Repository
 
-**Repository Link:**
+**Forked Repository Link:**
 
 https://github.com/Anushka-Kumar/L6_L7_17_electricity_bill
 
@@ -34,11 +34,6 @@ The three application functions were tested using Hypothesis with generated text
 | Test Framework | Pytest + Hypothesis |
 
 **All three final test cases passed successfully.**
-
-## GitHub Repository
-
-**Individual Repository:**  
-https://github.com/Anushka-Kumar/L6_L7_17_electricity_bill
 
 **SE Labs Repository:**  
 https://github.com/Anushka-Kumar/SE-Lab-PES1UG24CS075
