@@ -12,8 +12,8 @@ The individual repository contains the implementation, Hypothesis fuzz testing t
 
 ## Files Included
 
-1. `electricity_bill.py` – Electricity bill application with input handling.
-2. `test_electricity_bill.py` – Hypothesis-based fuzz testing test cases.
+1. `electricity_bill.py` – Updated Electricity bill application with input handling.
+2. `test_electricity_bill.py` – Updated Hypothesis-based fuzz testing test cases.
 3. `01_Original_Application.png` – Screenshot of the original application execution.
 4. `02_Failing_Fuzz_Tests1.png` – Initial failing fuzz test results.
 5. `02_Failing_Fuzz_Tests2.png` – Additional failing fuzz test results.
